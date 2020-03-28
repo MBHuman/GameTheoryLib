@@ -1,6 +1,8 @@
 class GameTheory:
 
-    def solve(self, a: list, p1: list, p2: list):
+
+
+    def expectedValue(self, a: list, p1: list, p2: list):
         """
             Возвращает выйгрыши для обеих сторон
             для вероятности p1 и p2 игроков
