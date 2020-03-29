@@ -10,7 +10,7 @@ class GameTheory:
             и где p2 - второй игрок
 
             Example for use:
-                from GameTheoruLib import GameTheory
+                from GameTheoryLib import GameTheory
 
                 gt = GameTheory()
 
